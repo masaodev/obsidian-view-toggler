@@ -1,7 +1,7 @@
 {
 	"id": "obsidian-view-toggler",
 	"name": "View Toggler",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "A plugin that adds commands to switch between source mode, preview mode, and reading mode in Obsidian.",
 	"author": "masao",
